@@ -18,7 +18,7 @@ export const PostsCollection: CollectionConfig = {
     },
     {
       type: 'group',
-      name: 'subPosts',
+      name: 'subPostGroup',
       fields: [
         {
           name: 'subPosts',
